@@ -1,0 +1,90 @@
+,#,Name,Type 1,Type 2,Legendary,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation
+0,1,Bulbasaur,Grass,Poison,False,318,45,49,49,65,65,45,1
+1,2,Ivysaur,Grass,Poison,False,405,60,62,63,80,80,60,1
+2,3,Venusaur,Grass,Poison,False,525,80,82,83,100,100,80,1
+3,3,VenusaurMega Venusaur,Grass,Poison,False,625,80,100,123,122,120,80,1
+4,13,Weedle,Bug,Poison,False,195,40,35,30,20,20,50,1
+5,14,Kakuna,Bug,Poison,False,205,45,25,50,25,25,35,1
+6,15,Beedrill,Bug,Poison,False,395,65,90,40,45,80,75,1
+7,15,BeedrillMega Beedrill,Bug,Poison,False,495,65,150,40,15,80,145,1
+8,43,Oddish,Grass,Poison,False,320,45,50,55,75,65,30,1
+9,44,Gloom,Grass,Poison,False,395,60,65,70,85,75,40,1
+10,45,Vileplume,Grass,Poison,False,490,75,80,85,110,90,50,1
+11,48,Venonat,Bug,Poison,False,305,60,55,50,40,55,45,1
+12,49,Venomoth,Bug,Poison,False,450,70,65,60,90,75,90,1
+13,69,Bellsprout,Grass,Poison,False,300,50,75,35,70,30,40,1
+14,70,Weepinbell,Grass,Poison,False,390,65,90,50,85,45,55,1
+15,71,Victreebel,Grass,Poison,False,490,80,105,65,100,70,70,1
+16,72,Tentacool,Water,Poison,False,335,40,40,35,50,100,70,1
+17,73,Tentacruel,Water,Poison,False,515,80,70,65,80,120,100,1
+18,92,Gastly,Ghost,Poison,False,310,30,35,30,100,35,80,1
+19,93,Haunter,Ghost,Poison,False,405,45,50,45,115,55,95,1
+20,94,Gengar,Ghost,Poison,False,500,60,65,60,130,75,110,1
+21,94,GengarMega Gengar,Ghost,Poison,False,600,60,65,80,170,95,130,1
+22,102,Exeggcute,Grass,Psychic,False,325,60,40,80,60,45,40,1
+23,103,Exeggutor,Grass,Psychic,False,520,95,95,85,125,65,55,1
+24,114,Tangela,Grass,,False,435,65,55,115,100,40,60,1
+25,152,Chikorita,Grass,,False,318,45,49,65,49,65,45,2
+26,153,Bayleef,Grass,,False,405,60,62,80,63,80,60,2
+27,154,Meganium,Grass,,False,525,80,82,100,83,100,80,2
+28,167,Spinarak,Bug,Poison,False,250,40,60,40,40,40,30,2
+29,168,Ariados,Bug,Poison,False,390,70,90,70,60,60,40,2
+30,182,Bellossom,Grass,,False,490,75,80,95,90,100,50,2
+31,187,Hoppip,Grass,Flying,False,250,35,35,40,35,55,50,2
+32,188,Skiploom,Grass,Flying,False,340,55,45,50,45,65,80,2
+33,189,Jumpluff,Grass,Flying,False,460,75,55,70,55,95,110,2
+34,191,Sunkern,Grass,,False,180,30,30,30,30,30,30,2
+35,192,Sunflora,Grass,,False,425,75,75,55,105,85,30,2
+36,211,Qwilfish,Water,Poison,False,430,65,95,75,55,55,85,2
+37,252,Treecko,Grass,,False,310,40,45,35,65,55,70,3
+38,253,Grovyle,Grass,,False,405,50,65,45,85,65,95,3
+39,254,Sceptile,Grass,,False,530,70,85,65,105,85,120,3
+40,254,SceptileMega Sceptile,Grass,Dragon,False,630,70,110,75,145,85,145,3
+41,269,Dustox,Bug,Poison,False,385,60,50,70,50,90,65,3
+42,273,Seedot,Grass,,False,220,40,40,50,30,30,30,3
+43,274,Nuzleaf,Grass,Dark,False,340,70,70,40,60,40,60,3
+44,275,Shiftry,Grass,Dark,False,480,90,100,60,90,60,80,3
+45,285,Shroomish,Grass,,False,295,60,40,60,40,60,35,3
+46,286,Breloom,Grass,Fighting,False,460,60,130,80,60,60,70,3
+47,315,Roselia,Grass,Poison,False,400,50,60,45,100,80,65,3
+48,331,Cacnea,Grass,,False,335,50,85,40,85,40,35,3
+49,332,Cacturne,Grass,Dark,False,475,70,115,60,115,60,55,3
+50,357,Tropius,Grass,Flying,False,460,99,68,83,72,87,51,3
+51,387,Turtwig,Grass,,False,318,55,68,64,45,55,31,4
+52,388,Grotle,Grass,,False,405,75,89,85,55,65,36,4
+53,389,Torterra,Grass,Ground,False,525,95,109,105,75,85,56,4
+54,406,Budew,Grass,Poison,False,280,40,30,35,50,70,55,4
+55,407,Roserade,Grass,Poison,False,515,60,70,65,125,105,90,4
+56,420,Cherubi,Grass,,False,275,45,35,45,62,53,35,4
+57,421,Cherrim,Grass,,False,450,70,60,70,87,78,85,4
+58,455,Carnivine,Grass,,False,454,74,100,72,90,72,46,4
+59,459,Snover,Grass,Ice,False,334,60,62,50,62,60,40,4
+60,460,Abomasnow,Grass,Ice,False,494,90,92,75,92,85,60,4
+61,460,AbomasnowMega Abomasnow,Grass,Ice,False,594,90,132,105,132,105,30,4
+62,465,Tangrowth,Grass,,False,535,100,100,125,110,50,50,4
+63,470,Leafeon,Grass,,False,525,65,110,130,60,65,95,4
+64,492,ShayminLand Forme,Grass,,True,600,100,100,100,100,100,100,4
+65,492,ShayminSky Forme,Grass,Flying,True,600,100,103,75,120,75,127,4
+66,495,Snivy,Grass,,False,308,45,45,55,45,55,63,5
+67,496,Servine,Grass,,False,413,60,60,75,60,75,83,5
+68,497,Serperior,Grass,,False,528,75,75,95,75,95,113,5
+69,511,Pansage,Grass,,False,316,50,53,48,53,48,64,5
+70,512,Simisage,Grass,,False,498,75,98,63,98,63,101,5
+71,543,Venipede,Bug,Poison,False,260,30,45,59,30,39,57,5
+72,544,Whirlipede,Bug,Poison,False,360,40,55,99,40,79,47,5
+73,545,Scolipede,Bug,Poison,False,485,60,100,89,55,69,112,5
+74,546,Cottonee,Grass,Fairy,False,280,40,27,60,37,50,66,5
+75,547,Whimsicott,Grass,Fairy,False,480,60,67,85,77,75,116,5
+76,548,Petilil,Grass,,False,280,45,35,50,70,50,30,5
+77,549,Lilligant,Grass,,False,480,70,60,75,110,75,90,5
+78,556,Maractus,Grass,,False,461,75,86,67,106,67,60,5
+79,590,Foongus,Grass,Poison,False,294,69,55,45,55,55,15,5
+80,591,Amoonguss,Grass,Poison,False,464,114,85,70,85,80,30,5
+81,597,Ferroseed,Grass,Steel,False,305,44,50,91,24,86,10,5
+82,598,Ferrothorn,Grass,Steel,False,489,74,94,131,54,116,20,5
+83,640,Virizion,Grass,Fighting,True,580,91,90,72,90,129,108,5
+84,650,Chespin,Grass,,False,313,56,61,65,48,45,38,6
+85,651,Quilladin,Grass,,False,405,61,78,95,56,58,57,6
+86,652,Chesnaught,Grass,Fighting,False,530,88,107,122,74,75,64,6
+87,672,Skiddo,Grass,,False,350,66,65,48,62,57,52,6
+88,673,Gogoat,Grass,,False,531,123,100,62,97,81,68,6
